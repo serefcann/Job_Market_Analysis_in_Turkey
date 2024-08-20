@@ -1,4 +1,4 @@
-#Job Market Analysis in Turkey: A Data Science Project
+Job Market Analysis in Turkey: A Data Science Project
 This project is focused on analyzing the key technology trends within the Turkish job market using data science techniques. The process involves scraping job descriptions from LinkedIn listings specific to Turkey, followed by leveraging the Gemini model to extract and identify the most relevant technologies, tools, and programming languages.
 
 Project Overview
