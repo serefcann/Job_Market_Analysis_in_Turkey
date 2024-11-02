@@ -19,5 +19,7 @@ This project focuses on analyzing key technology trends within the Turkish job m
 ## Results
 
 The results of this analysis are presented through a series of visualizations that provide a clear view of the technology landscape in Turkey. These insights are invaluable for both job seekers and businesses operating within the tech industry.
+![image](https://github.com/user-attachments/assets/2c16c76d-ca90-49e4-92d7-12d8dde18085)
+
 
 Stay tuned for the full analysis and visualizations!
